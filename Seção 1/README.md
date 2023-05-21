@@ -1,4 +1,4 @@
 # Seção 1
-Criação do meu primeiro dashboard
+Criação da minha primeira análise
 
 - Mapa com indicação de total de vendas por estado
